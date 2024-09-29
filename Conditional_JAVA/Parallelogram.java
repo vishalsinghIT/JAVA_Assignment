@@ -11,5 +11,7 @@ public class Parallelogram {
         b=sc.nextDouble();
         double p=(a+b)*2;
         System.out.println(p);
+        sc.close();
     }
+    
 }

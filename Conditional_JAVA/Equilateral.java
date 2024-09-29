@@ -10,5 +10,6 @@ public class Equilateral {
         a=sc.nextDouble();
         double A=(Math.sqrt(3)/4*(a*a));
         System.out.println("The area is " +A);
+        sc.close();
     }
 }

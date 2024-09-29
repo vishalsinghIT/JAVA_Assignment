@@ -11,5 +11,6 @@ public class Rectangle {
         breadth=sc.nextDouble();
         double area=length*breadth;
         System.out.println("The area of triangle " +area);
+        sc.close();
     }
 }

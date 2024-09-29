@@ -11,5 +11,6 @@ public class Rhombus {
         d2=sc.nextDouble();
         double area=(d1*d2)/2;
         System.out.println("Area is " +area);
+        sc.close();
     }
 }

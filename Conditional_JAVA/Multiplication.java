@@ -14,5 +14,6 @@ public class Multiplication {
             System.out.println(n+ " x " +i+ " = " +mul);
             
         }
+        sc.close();
     }
 }

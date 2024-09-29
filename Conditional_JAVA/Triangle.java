@@ -11,6 +11,7 @@ public class Triangle {
         height=sc.nextDouble();
         double area=base*height;
         System.out.println("The area of trianbgle is "+area);
+        sc.close();
         
     }
 }

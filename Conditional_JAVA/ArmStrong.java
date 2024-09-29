@@ -25,5 +25,6 @@ public class ArmStrong {
         {
             System.out.println("Not Armstrong");
         }
+        sc.close();
     }
 }
