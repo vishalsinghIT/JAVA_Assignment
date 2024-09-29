@@ -12,7 +12,7 @@ public class SumOfN {
         for(int i=1; i<=n; i++)
         {
             sum=sum+i;
-            System.out.println("Sum is " +sum);
         }
+        System.out.println("Sum is " +sum);
     }
 }
