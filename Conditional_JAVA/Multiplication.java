@@ -12,7 +12,7 @@ public class Multiplication {
         {
             int mul= n*i;
             System.out.println(n+ " x " +i+ " = " +mul);
-            53
+            
         }
     }
 }
